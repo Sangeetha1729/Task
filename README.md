@@ -36,7 +36,7 @@ Each visualization includes:
 - `gdp_per_capita_comparison.png`  
 - `life_expectancy_comparison.png`  
 - `co2_emissions_comparison.png`  
-- Python script or Jupyter Notebook (`.ipynb` or `.py`)
+- Python script or Jupyter Notebook (`.ipynb`)
 - This `README.md`
 
 ##  Reusability
@@ -45,7 +45,6 @@ Each visualization includes:
 - Fully labeled: All charts include appropriate titles, labels, and source metadata.
 - Clean plots for use in reports or presentations.
 
----
 
 ##  How to Run
 
